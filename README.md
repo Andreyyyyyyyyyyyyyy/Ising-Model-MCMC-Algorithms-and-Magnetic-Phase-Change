@@ -1,4 +1,4 @@
-# Magnetic Phase Transitions in Lattice Configurations Modelled by the 2D Ising Model and MCMC Methods.
+# (Andrey Version) Magnetic Phase Transitions in Lattice Configurations Modelled by the 2D Ising Model and MCMC Methods.
 
 ## Synopsis
 
